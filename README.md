@@ -11,9 +11,9 @@ O objetivo foi colocar em prática meus conhecimentos de Python e aprender os co
 - setuptools==82.0.1
 
 ## Como executar o jogo
-1 - Instale as dependências
+1. Instale as dependências
 
-2 - Utilize o comando abaixo para rodar o jogo
+2. Execute o comando no terminal:
+```bash 
+python main.py
 
-```bash
- pip install pygame
