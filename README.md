@@ -13,8 +13,7 @@ O objetivo foi colocar em prática meus conhecimentos de Python e aprender os co
 ## Como executar o jogo
 1. Instale as dependências
 ```bash
-pip install pygame-ce==2.5.7
-setuptools==62.0.1
+pip install pygame-ce==2.5.7 setuptools==62.0.1
 ```
 
 2. Execute o comando no terminal:
